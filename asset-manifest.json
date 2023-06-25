@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.efa6ff07.css",
+    "main.js": "/static/js/main.fbc40379.js",
+    "static/media/2.png": "/static/media/2.0f5bc477d58244e1dbf1.png",
+    "static/media/1.png": "/static/media/1.f039a27703de29c4ec4c.png",
+    "static/media/5.png": "/static/media/5.f6c0dff37b8454f105e6.png",
+    "static/media/camera.jpeg": "/static/media/camera.1bc3245aeb2c63aecc56.jpeg",
+    "static/media/3.png": "/static/media/3.0f5c91bd9cf7ac7b382f.png",
+    "static/media/home.jpg": "/static/media/home.37e38a1c83060cf8ec40.jpg",
+    "static/media/Amazon-logo.png": "/static/media/Amazon-logo.808bf88ddaba0301ceca.png",
+    "static/media/amazon-dark-logo.png": "/static/media/amazon-dark-logo.b3585b7d4a44754e1b81.png",
+    "static/media/checkoutAd.jpg": "/static/media/checkoutAd.b842b1e4bb0cc75ce652.jpg",
+    "static/media/iphone14.jpeg": "/static/media/iphone14.0c438385cf54088637f7.jpeg",
+    "static/media/iphone.jpeg": "/static/media/iphone.525a7a4c12ce69c8dc00.jpeg",
+    "index.html": "/index.html",
+    "main.efa6ff07.css.map": "/static/css/main.efa6ff07.css.map",
+    "main.fbc40379.js.map": "/static/js/main.fbc40379.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efa6ff07.css",
+    "static/js/main.fbc40379.js"
+  ]
+}
